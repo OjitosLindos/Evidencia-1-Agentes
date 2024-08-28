@@ -1,6 +1,6 @@
 # %%
-pip install agentpy  owlready2
-pip install matplotlib
+!pip install agentpy  owlready2
+!pip install matplotlib
 
 # %%
 import agentpy as ap
